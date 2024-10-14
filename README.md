@@ -8,8 +8,7 @@ I'm **Tom**, a Data Scientist with a deep passion for all things Data Science. F
 
 ### LucilleJams
 
-[**LucilleJams**](https://github.com/tomargentin0901/LucilleJams) is a music recommendation system designed to deliver a highly personalized music experience. I took full responsibility for every aspect of the project, including:
-
+[**LucilleJams**](https://github.com/tomargentin0901/LucilleJams) is a music recommendation system designed to deliver a highly personalized music experience. 
 > **Key Features**  
 > - **Personalized Recommendations:** Suggests music that resonates with user preferences, ensuring a customized listening experience.  
 > - **Taste Visualization:** Maps users' musical interests in a 2D space, allowing them to explore and understand their tastes within a broader musical landscape.  
