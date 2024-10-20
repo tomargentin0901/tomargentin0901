@@ -6,7 +6,12 @@ I'm **Tom**, a Data Scientist with a deep passion for all things Data Science. F
 
 ## Personal Projects
 
-### LucilleJams
+<div align="center">
+  <a href="https://github.com/tomargentin0901/LucilleJams">
+    <img src="https://github.com/tomargentin0901/LucilleJams/blob/main/app/assets/logo.png?raw=true" alt="LucilleJams Logo" width="200">
+  </a>
+</div>
+
 
 [**LucilleJams**](https://github.com/tomargentin0901/LucilleJams) is a music recommendation system designed to deliver a highly personalized music experience. 
 > **Key Features**  
@@ -22,7 +27,7 @@ I developed LucilleJams from the ground up, starting with dataset selection, bui
 
 I’m always excited to connect over data science, AI, and collaborative opportunities. Let’s connect:
 
-- **[LinkedIn](https://www.linkedin.com/in/tom-argentin/)**
-- **[Email](mailto:tom09012000@gmail.com)**
+- <a href="https://www.linkedin.com/in/tom-argentin/"><img src="https://simpleicons.org/icons/linkedin.svg" width="40" height="40"></a>
+- <a href="mailto:tom09012000@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" width="40" height="40"></a>
 
-Thank you for visiting. I hope you find value in my work and look forward to connecting with fellow enthusiasts and professionals.
+Thank you for visiting. I hope you find value in my work and look forward
