@@ -26,17 +26,9 @@ LucilleJams was built entirely from scratch, starting from dataset selection to 
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tom-argentin/" style="margin-right: 20px;">
-    <img src="https://simpleicons.org/icons/linkedin.svg" width="50" height="50" style="border: none; outline: none;">
-  </a>
-  
-  <a href="mailto:tom09012000@gmail.com" style="margin-right: 20px;">
-    <img src="https://simpleicons.org/icons/gmail.svg" width="50" height="50" style="border: none; outline: none;">
-  </a>
-  
-  <a href="https://medium.com/@tom09012000">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="50" height="50" style="border: none; outline: none;">
-  </a>
+  <a href="https://www.linkedin.com/in/tom-argentin/" style="margin-right: 20px;"><img src="https://simpleicons.org/icons/linkedin.svg" width="50" height="50" style="border: none; outline: none;"></a>
+  <a href="mailto:tom09012000@gmail.com" style="margin-right: 20px;"><img src="https://simpleicons.org/icons/gmail.svg" width="50" height="50" style="border: none; outline: none;"></a>
+  <a href="https://medium.com/@tom09012000"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="50" height="50" style="border: none; outline: none;"></a>
 </div>
 
 
